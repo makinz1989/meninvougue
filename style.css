@@ -185,20 +185,19 @@ footer{
     padding-bottom: 0.5rem;
 }
 
-.design p {
-    color: #90F50F;
-    /* padding-top: 1.5rem;
-    margin: 0; */
-}
-
-
-
 footer .navbar {
     display: flex;
     gap: 3rem;
     padding-left: 3rem;
     padding-bottom: 0.5rem;
     align-items: center;
+}
+
+.design p {
+    font-size: 1rem;
+    padding-top: 1.1rem;
+    margin: 0;
+    color: #90F50F;
 }
 
 @media only screen and (max-width: 895px) {
